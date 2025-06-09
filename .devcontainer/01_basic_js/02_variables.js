@@ -5,4 +5,4 @@ accountcity="kolkata"
 
 //accountId=2
 console.log(accountId);
-console.table([accountId,accountId,accountMail,accountcity])
+console.table([accountId,accountPassword,accountMail,accountcity])
